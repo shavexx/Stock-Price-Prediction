@@ -100,3 +100,8 @@ Streamlit will automatically launch the web interface in your browser at `http:/
 
 ## ⚠️ Educational Disclaimer
 This prediction application is created for **educational and college project demonstration purposes only**. Stock market prices are influenced by complex external factors (news, economic events, market sentiment) and cannot be predicted accurately using simple linear models alone. Do **not** use this app for real financial trading or investment decisions.
+
+## 🚀 Live Demo
+
+🔗 **Live Application:**  
+https://stock-price-prediction-ngte9snevdsk5rerkum2vq.streamlit.app/
